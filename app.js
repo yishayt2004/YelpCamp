@@ -1,7 +1,10 @@
 if (process.env.NODE_ENV !== "production") {
     require('dotenv').config();
 }
+console.log("Mapbox Token:", process.env.MAPBOX_TOKEN);
 
+const mbxGeocoding = require('@mapbox/mapbox-sdk/services/geocoding');
+const geocoder = mbxGeocoding({ accessToken: process.env.MAPBOX_TOKEN });
 const express = require('express');
 const path = require('path');
 const mongoose = require('mongoose');
