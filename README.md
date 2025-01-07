@@ -68,14 +68,18 @@ Follow these steps to run YelpCamp locally:
 
 ## Screenshots
 
-![Homepage Screenshot](https://via.placeholder.com/800x400)  
-*Description: Example of the homepage.*
+![Homepage Screenshot](data:screemshot)
+*Description: The beautifully designed homepage welcoming users to YelpCamp.*
 
 ## Contributing
 
 We welcome contributions to YelpCamp! Whether it's fixing bugs, adding features, or improving documentation, feel free to open issues or submit pull requests.
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
 
 ### Contact
 
