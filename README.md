@@ -68,8 +68,11 @@ Follow these steps to run YelpCamp locally:
 
 ## Screenshots
 
-![Homepage Screenshot](data:screemshot)
+## Screenshots
+
+![Homepage Screenshot](assets/images/screemshot.jpg)
 *Description: The beautifully designed homepage welcoming users to YelpCamp.*
+
 
 ## Contributing
 
